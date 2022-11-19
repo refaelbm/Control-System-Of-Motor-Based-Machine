@@ -1,6 +1,6 @@
 # Control-System-Of-Motor-Based-Machine
 
-Write a code for a CPU to control motor based machine with creating a comunction bettewen with a CP for the GUI
+Write a code for a CPU to control motor based machine with creating a comunction between with a CP for the GUI
 
 The CPU need to do 6 tasks:
 
