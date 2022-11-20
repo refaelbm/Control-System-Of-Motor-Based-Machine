@@ -41,7 +41,7 @@ Program languages:
 
 Backend Tools: 
 
- - CSS.
+ - CCS.
 
  - MSP430G2553(Personal kit).
 
