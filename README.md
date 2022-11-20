@@ -35,17 +35,17 @@ Design Scope:
 
 Program languages:
 
- -C++.
+ - C++.
 
- Python.
+ - Python.
 
 Backend Tools: 
 
- -CSS.
+ - CSS.
 
- -MSP430G2553(Personal kit).
+ - MSP430G2553(Personal kit).
 
- -MSP430FG4619(Lab kit).
+ - MSP430FG4619(Lab kit).
  
  
  
