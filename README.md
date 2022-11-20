@@ -1,8 +1,15 @@
 # Control-System-Of-Motor-Based-Machine
 
-Intereduction:
+Introduction:
 
-In this project we want to design and implement a control system for a step motor based machine that can be controlled by analog joystick and with serial communication channel with PC for remote control.
+In this project we want to design and implement a control system for a motor based machine that can be controlled by analog joystick and with serial communication channel with PC for remote control.
+
+Program languages: C++, Python.
+
+Programming Tools: CCS
+
+Backend Tools: MSP430G2553(Personal kit), MSP430FG4619(Lab kit).
+ 
 
 Design Scope:
 
@@ -33,20 +40,7 @@ Design Scope:
 
  ![image](https://user-images.githubusercontent.com/94614385/202896457-3482da63-14f2-4811-8102-80b57a33162a.png) 
 
-Program languages:
 
- - C++.
-
- - Python.
-
-Backend Tools: 
-
- - CCS.
-
- - MSP430G2553(Personal kit).
-
- - MSP430FG4619(Lab kit).
- 
  
  
 
