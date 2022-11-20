@@ -36,6 +36,6 @@ In this project we want to design and implement a control system for a motor bas
  3. Enable control with the joystick for the painting option. 
  4. Upload up to 3 text files with commands and after uploading allow the user to select what script to run.
 
- ####The text file commands:
+ #### The text file commands:
 
  ![image](https://user-images.githubusercontent.com/94614385/202896457-3482da63-14f2-4811-8102-80b57a33162a.png) 
